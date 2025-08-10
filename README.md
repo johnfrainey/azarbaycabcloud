@@ -1,0 +1,2 @@
+# azarbaycabcloud
+auto config maker
